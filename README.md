@@ -1,5 +1,5 @@
-After open the Project in Editor
-Please run the below cmd
+After open the Project in Editor <br>
+Please run the below cmd<br><br>
 
 
 php artisan migrate
